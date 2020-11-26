@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name = "FirstTheme" >
+        <item name="android:textColor">@color/primary_orange_200</item>
+        <item name="android:backgroundTint">@color/primary_orange_dark</item>
+        <item name="android:statusBarColor">@color/primary_orange_dark</item>
+        <item name="colorOnPrimary">@color/primary_orange_200</item>
+    </style>
+
+    <style name = "SecondTheme">
+        <item name ="android:textColor">@color/secondary_purple_200</item>
+        <item name="android:backgroundTint">@color/secondary_purple_dark</item>
+        <item name="android:statusBarColor">@color/secondary_purple_dark</item>
+        <item name="colorOnPrimary">@color/secondary_purple_200</item>
+    </style>
+
+    <style name = "ThirdTheme">
+        <item name = "android:textColor">@color/primary_teal_200</item>
+        <item name="android:backgroundTint">@color/primary_green_dark</item>
+        <item name="android:statusBarColor">@color/primary_green_dark</item>
+        <item name="colorOnPrimary">@color/primary_teal_200</item>
+    </style>
+
+</resources>
